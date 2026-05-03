@@ -17,7 +17,6 @@ DetectorFactory.seed = 0
 
 
 # CONFIG
-#API_KEY = os.getenv("YOUTUBE_API_KEY", "AIzaSyCP7q6V1sABovZhUcrZRLEEErSY7PdRR1E")
 
 #ACTUAL API KEYS ARE HIDDEN WHEN UPLOADING TO GITHUB (to follow YouTube API guidelines)
 API_KEYS = [
